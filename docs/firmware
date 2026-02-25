@@ -1,0 +1,5 @@
+# Firmware
+
+The firmware generates sinusoidal PWM using timer interrupts and a sine lookup table.
+
+These signals control the MOSFET driver to produce a sine-modulated output.
