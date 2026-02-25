@@ -1,0 +1,5 @@
+# Output Filter
+
+An LC low-pass filter removes high-frequency PWM switching components.
+
+This reconstructs a clean 50 Hz sine wave.
