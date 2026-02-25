@@ -1,2 +1,22 @@
-# Low-Power-Solar-Inverter
-A low-power solar inverter using SPWM and efficient power electronics, designed for high efficiency, low standby consumption, and embedded control experimentation.
+# Low Power Solar Inverter
+
+Low-power DC-AC inverter using SPWM, 4 MOSFET H-bridge, gate driver IC, and LC filter.
+
+---
+
+## Table of Contents
+
+- [Architecture](docs/architecture.md)
+- [Hardware](docs/hardware.md)
+- [Firmware](docs/firmware.md)
+- [Output Filter](docs/filter.md)
+
+---
+
+## Features
+
+• SPWM sine generation  
+• Full bridge inverter  
+• Gate driver control  
+• LC sine wave filter  
+• Designed for solar/battery systems
